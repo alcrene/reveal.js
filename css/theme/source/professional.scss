@@ -74,6 +74,9 @@ $selectionBackgroundColor: darken( $magenta, 10%);
 .reveal .incomplete {
    color: red;
 }
+.reveal .ul {
+   margin: 0 0 0 2em;
+}
 
 // Theme template ------------------------------
 @import "../template/theme";
