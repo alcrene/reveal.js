@@ -29,8 +29,8 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #fcfaec;
-  background-color: #fcfaec; }
+  background: white;
+  background-color: white; }
 
 .reveal {
   font-family: "Open Sans", sans-serif;
